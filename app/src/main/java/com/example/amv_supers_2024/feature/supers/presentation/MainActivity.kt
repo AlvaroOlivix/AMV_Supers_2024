@@ -1,10 +1,11 @@
-package com.example.amv_supers_2024
+package com.example.amv_supers_2024.feature.supers.presentation
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
+import com.example.amv_supers_2024.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

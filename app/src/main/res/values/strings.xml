@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AMV_Supers_2024</string>
+    <string name="file_supersList_local">SuperHeroes</string>
 </resources>

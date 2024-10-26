@@ -1,3 +1,3 @@
 package com.example.amv_supers_2024.feature.supers.domain.model
 
-class SuperHero(id: String, name: String, description: String, imageUrl: String)
+class SuperHero(val id: String, val name: String, val description: String, val imageUrl: String)
